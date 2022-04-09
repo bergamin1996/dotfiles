@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = murilobergamin@hotmail.com
+	name = Murilo Bergamin
